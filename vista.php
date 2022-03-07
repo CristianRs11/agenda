@@ -20,5 +20,10 @@ function mostrarContactos($contactos){
     }
     echo "</table>";
 }
-
+function pintarCabeceira(){
+    echo "<h1>Esta é a miña axenda</h1>";
+}
+function pintarPe(){
+    echo "Feito por o gran e sempre poderoso Cristian";
+}
 ?>
